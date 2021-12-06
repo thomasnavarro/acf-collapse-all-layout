@@ -28,22 +28,6 @@ class ACF_Collapse_All_Layout
     protected static $instance = null;
 
     /**
-     * Field key.
-     *
-     * @since  1.0
-     * @access protected
-     */
-    protected $field_key = 'acf_collapse_all_layout';
-
-    /**
-     * Layouts that will be hidden.
-     *
-     * @since  1.0
-     * @access protected
-     */
-    protected $hidden_layouts = [];
-
-    /**
      * A dummy magic method to prevent class from being cloned.
      *
      * @since  1.0
