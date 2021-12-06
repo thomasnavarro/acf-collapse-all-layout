@@ -1,0 +1,11 @@
+.collapse-all-layout {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.acf-field-flexible-content > .acf-label {
+    margin-bottom: 15px !important;
+}

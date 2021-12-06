@@ -1,0 +1,38 @@
+# Copyright (C) 2021 thomas navarro
+# This file is distributed under the same license as the ACF Collapse All Layout plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Collapse All Layout 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/acf-collapse-all-"
+"layout\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-06T12:14:14+00:00\n"
+"PO-Revision-Date: 2021-12-06 13:15+0100\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: acf-collapse-all-layout\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#. Plugin Name of the plugin
+msgid "ACF Collapse All Layout"
+msgstr "ACF Collapse All Layout"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/thomasnavarro/acf-collapse-all-layout"
+msgstr "https://github.com/thomasnavarro/acf-collapse-all-layout"
+
+#. Description of the plugin
+msgid "Easily collapse the layout of the flexible content on the admin."
+msgstr "Réduisez facilement la disposition du contenu flexible ACF."
+
+#. Author of the plugin
+msgid "thomas navarro"
+msgstr "thomas navarro"
+
+#: acf-collapse-all-layout.php:188
+msgid "Collapse All Layout"
+msgstr "Tout réduire"
